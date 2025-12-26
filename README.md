@@ -1,6 +1,7 @@
 # 🤖 BillianceAI — Felina Fit
-## 🏋️ Voice-First AI Gym & Wellness Companion
+### 🏋️ Voice-First AI Gym & Wellness Companion
 
+---
   
 ## 🚀 Overview
 
