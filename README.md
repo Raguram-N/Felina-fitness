@@ -1,14 +1,6 @@
 # 🤖 BillianceAI — Felina Fit
 ## 🏋️ Voice-First AI Gym & Wellness Companion
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="4.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
   
 ## 🚀 Overview
 
@@ -19,26 +11,29 @@ Felina Fit removes dependency on complex fitness apps and replaces them with nat
 - Protein & nutrition planning
 - Cooking tips and habit reminders
 
-## 🤝 One-line Summary
-Felina Fit enables gym members to get daily workout plans, diet advice, and habit reminders through voice calls, helping gyms improve member retention, engagement, and results—without asking users to install or learn new apps.
-
-> **✨ Members speak. Felina guide.** <br>
-> **✨ No apps. No screens. Just a phone call — Felina handles the rest.**
-
-</td>
-</tr>
-</table>
-
 ---
 
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="15.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
+
+
+
+## 🤝 One-line Summary
+Felina Fit enables gym members to get daily workout plans, diet advice, and habit reminders through voice calls, helping gyms improve member retention, engagement, and results—without asking users to install or learn new apps.
+
+> **✨ Members speak. Felina guide.** <br>
+> **✨ No apps. No screens. Just a phone call — Felina handles the rest.**
+
+
+
+---
+
 
 ## 🎯 Vision
 **✨ Help people stay consistent with fitness through simple, human conversations.** <br>
@@ -62,9 +57,10 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="60%" align="center" valign="middle">
 
 <img src="2.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -87,7 +83,7 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 - Low confidence
 - Poor adherence to diet & workouts
 
-> **✨ Fitness knowledge exists. Consistency does not.**
+> **✨ Fitness knowledge exists. But Consistency ?**
 
 </td>
 </tr>
@@ -100,6 +96,7 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 <td width="50%" align="center" valign="middle">
 
 <img src="4.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="3.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -132,7 +129,23 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 - Protein & water nudges
 - Gentle follow-ups after inactivity
 
-**📞 Member Experience Flow**
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="19.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
+
+## 📞 Member Experience Flow**
 - Member calls Felina Fit
 - Felina greets in preferred language
 - Member asks naturally
@@ -141,10 +154,6 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 - Member stays consistent
 
 > **✨ No app • No learning curve • No intimidation**
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -162,16 +171,13 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 - Member: What should I eat for dinner today?
 - Felina: Have grilled chicken with vegetables. Avoid oil-heavy foods tonight.
 
+</td>
+</tr>
+</table>
+
+
 ---
 
-<table>
-<tr>
-<td width="50%" align="center" valign="middle">
-
-<img src="3.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
 
 ## 🏢 Value for Gyms & Fitness Centers
 
@@ -188,9 +194,6 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 
 > **✨ Felina complements trainers — it does not replace them.**
 
-</td>
-</tr>
-</table>
 
 
 ---
