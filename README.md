@@ -179,6 +179,12 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 
 ---
 
+## 🌐 Lead & Outreach Contacts
+
+**🏋️‍♂️ Cult.fit (CureFit) | 💪 Slam Gym | ⏱️ Anytime Fitness -** [**Link**](https://github.com/Raguram-N/-Felina-fit-collab/blob/main/README.md)
+
+---
+
 ## ⭐ Why Felina Fit Wins
 
 - Voice-first by default
