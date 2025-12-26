@@ -1,6 +1,15 @@
 # 🤖 BillianceAI — Felina Fit
 ## 🏋️ Voice-First AI Gym & Wellness Companion
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ## 🚀 Overview
 
 Felina Fit is a voice-first AI assistant designed to help gym members—especially beginners, elders (40+), and busy professionals—manage fitness, diet, and wellness through simple phone calls.
@@ -16,7 +25,20 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 > **✨ Members speak. Felina guide.** <br>
 > **✨ No apps. No screens. Just a phone call — Felina handles the rest.**
 
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ## 🎯 Vision
 **✨ Help people stay consistent with fitness through simple, human conversations.** <br>
@@ -31,8 +53,22 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 **Tagline:**
 > **✨ “Just Call. Felina Will Guide.”**
 
+</td>
+</tr>
+</table>
+
 ---
 
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ## 🧠 Problem Statement
 
 **Challenges Faced by Gym Members**
@@ -53,8 +89,21 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 
 > **✨ Fitness knowledge exists. Consistency does not.**
 
+</td>
+</tr>
+</table>
+
 ---
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ## 💡 Solution — Felina Fit (Gym Companion)
 
 **Felina Fit acts as a virtual trainer + diet coach that gym members can call anytime.**
@@ -93,6 +142,10 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 
 > **✨ No app • No learning curve • No intimidation**
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 💬 Sample Conversation
@@ -111,6 +164,15 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 
 ---
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ## 🏢 Value for Gyms & Fitness Centers
 
 **💪 For Gym Owners**<br>
@@ -125,6 +187,10 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 ✔ Standardized guidance<br>
 
 > **✨ Felina complements trainers — it does not replace them.**
+
+</td>
+</tr>
+</table>
 
 
 ---
@@ -160,6 +226,15 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 
 ---
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="1.1.png" width="95%" alt="DriveXR Problem Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ## 📊 Market Opportunity
 
 - 100M+ active gym & fitness users in India
@@ -176,6 +251,11 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 - 🤝 Gym Partnerships
 - 👨‍👩‍👧 Family Wellness Plans
 - 🧠 Brand Partnerships
+
+
+</td>
+</tr>
+</table>
 
 ---
 
