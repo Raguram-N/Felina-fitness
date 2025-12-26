@@ -120,7 +120,6 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 ✔ Differentiated gym experience<br>
 
 **🧠 For Trainers**<br>
-
 ✔ Handles repetitive questions<br>
 ✔ Frees time for premium coaching<br>
 ✔ Standardized guidance<br>
