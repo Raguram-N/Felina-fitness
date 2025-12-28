@@ -146,7 +146,7 @@ Felina Fit enables gym members to get daily workout plans, diet advice, and habi
 <td width="60%" valign="top">
 
 
-## 📞 Member Experience Flow**
+## 📞 Member Experience Flow
 - Member calls Felina Fit
 - Felina greets in preferred language
 - Member asks naturally
